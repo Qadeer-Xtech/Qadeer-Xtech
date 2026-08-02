@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=27FE60&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I'm+Qadeer!+👋;I'm+a+Passionate+Developer+💻;Welcome+to+my+Profile!+🚀" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=27FE60&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I'm+Qadeer!+👋;I'm+a+Passionate+Developer+💻;Welcome+to+my+Profile!+🚀)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">
@@ -28,7 +26,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Aap yahan icons change kar skty hain apni marzi sy -->
     <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,git,github,vscode,linux,heroku&perline=10" alt="Qadeer's Skills" />
   </a>
 </p>
@@ -40,13 +37,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qadeer-Xtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Qadeer's GitHub Stats" />
+  [![Qadeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qadeer-Xtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Qadeer-Xtech)
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qadeer-Xtech&theme=tokyonight&hide_border=true&background=0D1117" alt="Qadeer's GitHub Streak" />
+  [![Qadeer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qadeer-Xtech&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Qadeer-Xtech)
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer-Xtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer-Xtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Qadeer-Xtech)
 </p>
 
 <div align="center">
