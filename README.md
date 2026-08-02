@@ -91,17 +91,6 @@ Mission:
 
 ---
 
-# 📈 GITHUB STATS
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Qadeer-Xtech&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer-Xtech&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 STREAK
 
@@ -138,35 +127,6 @@ Mission:
 </a>
 
 </p>
-
----
-
-# 💚 QUOTE
-
-text
-while(alive){
-
-   Learn();
-
-   Build();
-
-   Improve();
-
-   Repeat();
-
-}
-
-
----
-
-
-# 🐍 SNAKE
-
-> Enable GitHub Actions and create the snake workflow.
-
-```html
-https://raw.githubusercontent.com/Qadeer-Xtech/Qadeer-Xtech/output/github-contribution-grid-snake.svg
-```
 
 ---
 
