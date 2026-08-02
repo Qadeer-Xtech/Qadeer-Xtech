@@ -1,55 +1,205 @@
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=27FE60&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I'm+Qadeer!+👋;I'm+a+Passionate+Developer+💻;Welcome+to+my+Profile!+🚀)](https://git.io/typing-svg)
-</h1>
+<!-- ========================================================= -->
+<!--               ⚡ TEAM QADEER CYBERPUNK README ⚡             -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> <b>A passionate developer on a journey to master programming!</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Qadeer;Cyberpunk+Developer;JavaScript+%7C+Node.js+%7C+Python;TEAM+QADEER;Welcome+To+My+GitHub+Profile" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning and improving my skills in **Software Programming & Full-Stack Development**.
-- 💡 I love exploring new technologies, writing clean code, and automating things.
-- 🛠️ Dedicated to building a strong foundation and learning something new every day.
-- 🚀 My goal is to become a top-tier professional programmer.
-- 📫 How to reach me: **[ummerkulachi@gmail.com]**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-### 🛠️ Languages and Tools
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,git,github,vscode,linux,heroku&perline=10" alt="Qadeer's Skills" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:00ff55&text=TEAM%20QADEER&fontColor=00ff66&fontSize=60&animation=fadeIn"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-### 📊 GitHub Stats
-
 <p align="center">
-  [![Qadeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qadeer-Xtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Qadeer-Xtech)
-</p>
-<p align="center">
-  [![Qadeer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qadeer-Xtech&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Qadeer-Xtech)
-</p>
-<p align="center">
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer-Xtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Qadeer-Xtech)
+<img src="https://komarev.com/ghpvc/?username=Qadeer-Xtech&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Qadeer-Xtech?color=00ff66&label=Followers&logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Qadeer-Xtech?color=00ff66&label=Stars&logo=github&style=for-the-badge"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
+
+# 💻 TERMINAL
+
+```bash
+> Booting TEAM QADEER OS...
+
+██████████████████████████████ 100%
+
+User............. Qadeer
+Role............. Full Stack Developer
+Language......... JavaScript
+Framework........ Node.js
+Editor........... VS Code
+OS............... Linux
+Status........... ONLINE
+Power............ ██████████ 100%
+
+Access Granted ✔
+```
+
+---
+
+# 👨‍💻 ABOUT ME
+
+```yaml
+Name: Qadeer Ahmad
+
+Country: Pakistan
+
+Role: Developer
+
+Learning:
+  - JavaScript
+  - Node.js
+  - Python
+  - Full Stack Development
+
+Passion:
+  - Programming
+  - Automation
+  - Open Source
+  - AI
+
+Mission:
+  Become one of the best software developers.
+```
+
+---
+
+# ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&text=Team%20Qadeer&fontSize=20&fontAlignY=70" alt="Footer Wave" />
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,react,express,mongodb,mysql,firebase,git,github,linux,vscode,vercel,heroku,docker,bash,npm&perline=10"/>
+
+</p>
+
+---
+
+# 🚀 CURRENTLY LEARNING
+
+- JavaScript Advanced
+- Node.js
+- Express
+- MongoDB
+- APIs
+- Git
+- GitHub
+- Linux
+- Docker
+- AI Development
+
+---
+
+# 📈 GITHUB STATS
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Qadeer-Xtech&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qadeer-Xtech&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 STREAK
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Qadeer-Xtech&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+
+
+---
+
+# 📊 CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qadeer-Xtech&theme=react-dark&hide_border=true&color=00ff66&line=00ff66"/>
+
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://github.com/Qadeer-Xtech">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:ummerkulachi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💚 QUOTE
+
+text
+while(alive){
+
+   Learn();
+
+   Build();
+
+   Improve();
+
+   Repeat();
+
+}
+
+
+---
+
+
+# 🐍 SNAKE
+
+> Enable GitHub Actions and create the snake workflow.
+
+```html
+https://raw.githubusercontent.com/Qadeer-Xtech/Qadeer-Xtech/output/github-contribution-grid-snake.svg
+```
+
+---
+
+# 💚 MATRIX
+
+```
+01001001 00100000 01101100 01101111 01110110
+01100101 00100000 01100011 01101111 01100100
+01101001 01101110 01100111
+
+ACCESS GRANTED
+
+WELCOME TO TEAM QADEER
+```
+
+---
+
+# 💻 DEV PHILOSOPHY
+
+> Code with passion.
+
+> Learn every day.
+
+> Never give up.
+
+> Build something useful.
+
+> Stay humble.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,100:00ff66&text=TEAM%20QADEER&fontColor=00ff66&fontSize=40"/>
+
 </p>
