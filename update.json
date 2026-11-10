@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 11,
-  "latest_version_name": "2.0",
-  "update_url": "https://drive.google.com/file/d/1YxRh0uP4px-yKpTQjwZEGhfjz5f0tM2p/view",
+  "latest_version_code": 12,
+  "latest_version_name": "2.1",
+  "update_url": "https://drive.google.com/file/d/1yknjAwj8f8eS7NrnYdmrBkvKAmN5ZmI5/view",
   "message": "A new version of GitHub Manager is available!",
-  "force": true
+  "force": false
 }
